@@ -49,36 +49,36 @@ body {
 .produto{
     padding: 24px 0;
 }
-.produto-imagem{
+.Itens-imagem{
     width: 120px;
 }
 
-.produto-icone{
+.Itens-icone{
     width: 24px;
     padding: 4px 8px;
 }
 
-.produto-div{
+.Itens-div{
     text-align: center;
     padding: 16px 0;
 }
 
-.produto-titulo{
+.Itens-titulo{
     text-align: center;
     padding: 50px 0;
 }
 
-.produto-todos{
+.Itens-todos{
     display: grid;
     grid-template-columns: 20% 20% 20% 20% 20%;
 }
 
-.taaça{
+.taca{
     background-color: rgb(255, 255, 255);
     text-align: center;
 }
 
-.taça-imagem{
+.taca-imagem{
     height: 60px;
     padding: 12px 0;
    
